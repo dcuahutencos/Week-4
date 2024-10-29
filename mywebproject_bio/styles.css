@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.section {
+    padding: 20px;
+    margin: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.one {
+    background-color: #FFDDC1; /* Light peach */
+    border: 2px solid #FFABAB; /* Light red */
+}
+
+.two {
+    background-color: #C1E1FF; /* Light blue */
+    border: 2px solid #A0C4FF; /* Blue */
+}
+
+.three {
+    background-color: #D4E157; /* Light green */
+    border: 2px solid #AED581; /* Green */
+}
+
+.four {
+    background-color: #FFABAB; /* Light coral */
+    border: 2px solid #FF677D; /* Coral */
+}
+
+.five {
+    background-color: #FFD54F; /* Light yellow */
+    border: 2px solid #FFCA28; /* Yellow */
+}
+
+/* Text formatting */
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+}
+
